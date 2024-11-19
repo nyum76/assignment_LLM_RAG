@@ -1,8 +1,4 @@
-# assignment_LLM_RAG
-
-## 해야할 것들
-* `pip freeze` > `requirements.txt` 생성
-* [PDF 문서 기반 Q n A RAG 구축 실습 영상](https://www.youtube.com/watch?v=Ga6kqHVKo9g) 실습 따라하고 정리 
-  * [실습 파일](https://github.com/nyum76/assignment_LLM_RAG/blob/main/RAG/LLM_RAG.ipynb)
-* 주석 더 자세히 달고 개념 markdown 으로 정리
-* README.md 최종 정리 (피드백 받은거 바탕으로)
+# INDEX
+* PDF : 과제에 필요한 PDF
+* ChatBot : LLM 과 RAG 개인과제 폴더
+* .gitignore : 버전 관리에서 제외시킬 파일 명시 (OPENAI_API_KEY를 설정한 `.env`파일을 제외시킴)
