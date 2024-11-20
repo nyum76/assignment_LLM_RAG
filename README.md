@@ -1,5 +1,15 @@
-# INDEX
+# README!!!!!!
+### 사용 패키지
+[requirements.txt](https://github.com/nyum76/assignment_LLM_RAG/blob/main/requirements.txt)에 사용한 패키지와 버전 모두 명시
+해당 프로젝트 진행시 사용했던 모든 패키지 
+#### 패키지 설치
+1. [requirements.txt](https://github.com/nyum76/assignment_LLM_RAG/blob/main/requirements.txt) 파일을 다운로드 한다
+2. `conda activate <가상환경이름>` : 패키지를 설치할 가상환경을 활성화 한다
+3. `pip install -r requirements.txt` : 패키지 설치
+   * `r` (read) : 해당 파일을 읽어서 그 안에 명시된 패키지들 한번에 설치
 
+---
+# INDEX
 ---
 
 * [ChatBot](https://github.com/nyum76/assignment_LLM_RAG/tree/main/ChatBot) : LLM 과 RAG 개인과제 디렉토리
