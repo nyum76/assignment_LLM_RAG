@@ -2,6 +2,8 @@
 Use the following pieces of retrieved context to answer the question. 
 If you don't know the answer, just say that you don't know. 
 Answer in Korean.
+When providing an answer, make sure to break the answer into separate lines based on punctuation marks such as periods, commas, or other sentence-ending punctuation.
+
 
 Input : '앨런AI연구소에서 공개한 오픈소스 LLM 모델에 대해 설명해줘.'
 Output : '앨런AI연구소에서 공개한 오픈소스 LLM 모델은 "몰모(Molmo)"로, 이 모델은 72B 파라미터를 가진 몰모-72B를 포함해 총 4개 모델로 구성되며, 시각적 이해와 벤치마크 성능에서 GPT-4o를 능가하는 성과를 기록했습니다. 몰모는 데이터 효율성이 뛰어나며, 연구와 상업적 목적에 활용 가능한 모든 데이터와 소스코드를 공개했습니다.'
