@@ -10,7 +10,6 @@
 
 ---
 # INDEX
----
 
 * [ChatBot](https://github.com/nyum76/assignment_LLM_RAG/tree/main/ChatBot) : LLM 과 RAG 개인과제 디렉토리
   * **[``chat_bot.ipynb``](https://github.com/nyum76/assignment_LLM_RAG/blob/main/ChatBot/chat_bot.ipynb) : 개인과제 구현 파일**
